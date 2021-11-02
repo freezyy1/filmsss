@@ -10,11 +10,7 @@ const Footer = () => {
                                 <li><a className="grey-text text-lighten-3" href="https://freezyy1.github.io/">Site of company</a></li>
                                 <li><a className="grey-text text-lighten-3" href="#!">Link 2</a></li>
                                 <li><a className="grey-text text-lighten-3" href="#!">Link 3</a></li>
-
                             </ul>
-
-
-
                         </div>
                         <div className="col l4 offset-l2 s12">
                             <h5 className="white-text">Projects on react</h5>
@@ -22,7 +18,6 @@ const Footer = () => {
                                 <li><a className="grey-text text-lighten-3" href="#!">Movies search</a></li>
                                 <li><a className="grey-text text-lighten-3" href="#!">Link 2</a></li>
                                 <li><a className="grey-text text-lighten-3" href="#!">Link 3</a></li>
-
                             </ul>
                         </div>
                     </div>
